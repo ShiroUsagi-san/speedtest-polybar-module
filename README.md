@@ -2,15 +2,15 @@
 
 ![screenshoot](screenshoot.png)
 
-##Dependencies
+## Dependencies
 [Speedtest-cli](https://github.com/sivel/speedtest-cli)
 [Awesome-font](http://fontawesome.io/)
 
-##Setup
+## Setup
 `cd ~/.config/polybar`
 `git clone https://github.com/ShiroUsagi-san/speedtest-polybar-module`
 
-##Module
+## Module
 ```Bash
 [module/speedtest]
 type = custom/script
