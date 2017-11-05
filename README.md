@@ -4,6 +4,7 @@
 
 ## Dependencies
 [Speedtest-cli](https://github.com/sivel/speedtest-cli)
+
 [Awesome-font](http://fontawesome.io/)
 
 ## Setup
