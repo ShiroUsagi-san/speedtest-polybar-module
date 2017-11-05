@@ -9,6 +9,7 @@
 
 ## Setup
 `cd ~/.config/polybar`
+
 `git clone https://github.com/ShiroUsagi-san/speedtest-polybar-module`
 
 ## Module
