@@ -13,7 +13,7 @@
 `git clone https://github.com/ShiroUsagi-san/speedtest-polybar-module`
 
 ## Module
-```Bash
+```Ini
 [module/speedtest]
 type = custom/script
 exec = echo 'waiting for info...   ' & ~/.config/polybar/speedtest_module/speedtest_api.py
