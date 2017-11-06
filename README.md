@@ -16,7 +16,7 @@
 ```Ini
 [module/speedtest]
 type = custom/script
-exec = echo 'waiting for info...   ' & ~/.config/polybar/speedtest_module/speedtest_api.py
+exec = ~/.config/polybar/speedtest_module/speedtest_api.py
 tail = true
 interval = 3600
 ```
