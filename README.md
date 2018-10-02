@@ -1,3 +1,5 @@
+This module is a simple speedtest result displaying in polybar
+
 # Speedtest
 
 ![screenshoot](screenshoot.png)
